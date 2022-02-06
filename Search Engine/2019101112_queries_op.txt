@@ -1,0 +1,133 @@
+343, before i go to sleep
+343, wikipedia:checkwiki/wpc 046 dump
+343, wikipedia:database reports/english language films without article
+343, second life (novel)
+343, p. d. james
+343, before i go to sleep (film)
+343, red dragon (2002 film)
+343, harry potter
+343, thriller (american tv series)
+343, agatha christie
+11.0744469165802
+
+
+8996046, autoencoder
+8996046, variational autoencoder
+8996046, unsupervised learning
+8996046, machine learning
+8996046, kernel principal component analysis
+8996046, self-organizing map
+8996046, feature learning
+8996046, multilinear principal component analysis
+8996046, principal component analysis
+8996046, types of artificial neural networks
+6.276977777481079
+
+
+947205, ice hockey
+947205, ottawa senators (original)
+947205, summit series
+947205, ice hockey world championships
+947205, list of ice hockey nicknames
+947205, wikipedia:wikiproject red link recovery/exceptions
+947205, ice hockey in the united states
+947205, toronto maple leafs
+947205, canadian women's ice hockey history
+947205, ted kennedy (ice hockey)
+16.088387966156006
+
+
+815300, wikipedia:new pages patrol/unpatrolled articles/may 2011
+815300, israel
+815300, wikipedia:checkwiki/wpc 005 dump
+815300, developing country
+815300, group of seven
+815300, developed country
+815300, g20
+815300, trillion dollar club (macroeconomics)
+815300, australia
+815300, bric
+53.95316410064697
+
+
+3748516, gottfried wilhelm leibniz
+3748516, calculus
+3748516, leibniz's notation
+3748516, history of calculus
+3748516, infinitesimal
+3748516, wikipedia:checkwiki/wpc 005 dump
+3748516, glossary of calculus
+3748516, differential (infinitesimal)
+3748516, integral
+3748516, notation for differentiation
+2.378551959991455
+
+
+20856476, brooklyn nine-nine
+20856476, list of brooklyn nine-nine characters
+20856476, brooklyn nine-nine (season 1)
+20856476, brooklyn nine-nine (season 5)
+20856476, brooklyn nine-nine (season 2)
+20856476, brooklyn nine-nine (season 4)
+20856476, brooklyn nine-nine (season 3)
+20856476, brooklyn nine-nine (season 6)
+20856476, brooklyn nine-nine (season 7)
+20856476, brooklyn nine-nine (season 8)
+4.117920637130737
+
+
+18940333, wikipedia:wikiproject academic journals/lists of pages/articles
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/publisher2
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/doi/10.1000
+18940333, wikipedia:wikiproject academic journals/lists of pages/non-talk pages
+18940333, wikipedia:wikiproject academic journals/lists of pages/talk pages
+18940333, mathematical and theoretical biology
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/publisher7
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/publisher1
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/doi/10.1010
+18940333, wikipedia:wikiproject academic journals/journals cited by wikipedia/publisher6
+18.33038854598999
+
+
+18895014, the catcher in the rye
+18895014, wikipedia:checkwiki/wpc 064 dump
+18895014, j. d. salinger
+18895014, wikipedia:recent additions/2009/june
+18895014, holden caulfield
+18895014, wikipedia:vital articles/list of all articles
+18895014, wikipedia:wikiproject australian politics/missing topics
+18895014, wikipedia:database reports/english language films without article
+18895014, wikipedia:wikiproject yorkshire/article list
+18895014, wikipedia:wikiproject yorkshire/article talk list
+14.352071523666382
+
+
+18940326, wikipedia:reference desk/archives/science/january 2006
+18940326, wikipedia:vital articles/list of all articles
+18940326, wikipedia:reference desk/archives/science/april 2006
+18940326, draft:timeline of mechanical engineering innovation
+18940326, wikipedia:reference desk/archives/science/december 2005
+18940326, wikipedia:reference desk/archives/science/march 2006
+18940326, pendulum
+18940326, glossary of engineering
+18940326, wikipedia:reference desk/archives/science/may 2006
+18940326, wikipedia:wikiproject academic journals/journals cited by wikipedia/publisher2
+13.172337770462036
+
+
+911740, battle of fredericksburg
+911740, 2010 united states senate elections
+911740, robert e. lee
+911740, to kill a mockingbird
+911740, 1960 united states senate elections
+911740, battle of antietam
+911740, romani people
+911740, john brown's raid on harpers ferry
+911740, john s. barbour jr.
+911740, battle of mine run
+28.928850412368774
+
+
+3.695487976074219e-05
+
+
